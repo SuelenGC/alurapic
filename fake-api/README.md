@@ -3,5 +3,4 @@
 
 
 ## Resources
-   - http://localhost:3001/candidates
-   - http://localhost:3001/positions
+   - http://localhost:3001/photos
