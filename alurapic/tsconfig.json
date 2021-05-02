@@ -8,6 +8,10 @@
   "compilerOptions": {
     "experimentalDecorators": true
   },
+  "angularCompilerOptions": {
+    "strictTemplates": true,
+    "fullTemplateTypeCheck": true
+  },
   "references": [
     {
       "path": "./tsconfig.app.json"
